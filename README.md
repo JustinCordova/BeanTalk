@@ -1,6 +1,6 @@
 # 🌱 **Bean Talk** 🌱  
 
-Welcome to **Bean Talk**, a simple and elegant chat application designed to help you stay connected! 🫘☕ Whether you're chatting with friends, coworkers, or just testing it out, **Bean Talk** is the place to spill the beans.  
+Welcome to **Bean Talk**, a simple and elegant chat application designed to help you stay connected! 🫘 Whether you're chatting with friends, coworkers, or just testing it out, **Bean Talk** is the place to spill the beans. 🫘
 
 ---
 
